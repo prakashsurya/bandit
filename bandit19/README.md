@@ -1,4 +1,4 @@
-Bandit Level 17 &rarr; Level 18
+Bandit Level 18 &rarr; Level 19
 ===============================
 
 Level Goal
